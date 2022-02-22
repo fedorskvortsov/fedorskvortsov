@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Java, Kotlin, JavaScript, React, Spring and Android  
+🌱 I’m currently using Java, Kotlin, JavaScript, React, Spring and Android  
